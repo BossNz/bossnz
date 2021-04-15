@@ -30,7 +30,7 @@ const BossNz = {
     Aboutme:"I AM FULLSTACK DEVLOPER ! AND I AM STUDENT SENIOR HIGH SCHOOL",
     Languages: ["Javascript", "Php", "Python", "Golang", "Ruby"],
     Framework: {
-      Javascript:["Vuejs","Nuxtjs","Nodejs","Expressjs","Adonisjs"],
+      Javascript:["Vuejs", "Nuxtjs", "Expressjs", "Adonisjs"],
       Php:["Laravel"],
     },
     Contact: {
