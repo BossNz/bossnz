@@ -33,6 +33,11 @@ const BossNz = {
       Javascript:["Vuejs","Nuxtjs","Nodejs","Expressjs","Adonisjs"],
       Php:["Laravel"],
     },
+    Contact: {
+      Facebook: "Teerawat Luesat",
+      Discord: "ʙᴏssɴᴢᴋᴜʙ#9999",
+      Line: "BossNzKub1",
+    }
 };
 ```
 ![BossNz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BossNzXD&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BossNzXD&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
