@@ -35,4 +35,4 @@ const BossNz = {
     },
 };
 ```
-   <img src="https://github-readme-stats.vercel.app/api?username=bossnzxd&show_icons=true&count_private=true&theme=tokyonight" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossnzxd&layout=compact&count_private=true&theme=tokyonight" alt="mraugu" />
+![BossNz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BossNzXD&show_icons=true&theme=radical)
