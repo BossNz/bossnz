@@ -1,5 +1,4 @@
 <h2>BossNz!</h2>
-<strong>Contectme:</strong>
 <br>
 <a href="">
   <img src="https://count.getloli.com/get/@bossnz?theme=rule34" />
@@ -27,7 +26,6 @@ const BossNz = {
       Database:["Mysql", "MongoDB", "Firebase"]
     },
     Contact: {
-      Facebook: "Teerawat Luesat",
       Discord: "ʙᴏssɴᴢᴋᴜʙ#9999",
       Line: "BossNzKub1",
     }
