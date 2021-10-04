@@ -1,21 +1,9 @@
 <h2>BossNz!</h2>
 <strong>Contectme:</strong>
 <br>
-<code>
 <a href="">
-  <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img src="https://count.getloli.com/get/@bossnz?theme=rule34" />
 </a>
-</code>
-<code>
-<a href="https://www.facebook.com/teerawat.luesat.923">
-  <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-</code>
-<code>      
-<a href="ttps://steamcommunity.com/profiles/76561199060963279/">
-  <img height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
-</a>
-</code>
 <br>
 <strong>Languages and Tools:</strong>
 
