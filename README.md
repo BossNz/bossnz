@@ -1,4 +1,4 @@
-<h2>BossNz!</h2>
+<h2>Hello , BossNz!</h2>
 <br>
 <a href="">
   <img src="https://count.getloli.com/get/@bossnz?theme=rule34" />
