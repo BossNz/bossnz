@@ -32,8 +32,8 @@ const BossNz = {
 };
 ```
 <a href="https://github.com/BossNz">
-  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api?username=BossNz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=BossNz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/BossNz">
-  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossNz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img height="220" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossNz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
