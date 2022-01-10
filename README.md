@@ -15,19 +15,19 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 ```javascript
 const BossNz = {
-    Aboutme:"I AM FULLSTACK DEVLOPER !",
-    Languages: ["Javascript", "Php", "Python", "Golang"],
+    Aboutme:"I AM Fullstack & Reverse engineering.",
+    Languages: ["Javascript", "Php", "Python"],
     Framework: {
-      Javascript:["Vuejs", "Nuxtjs", "Expressjs", "Adonisjs","Jquery"],
+      Javascript:["React","Vue","NextJs", "Nuxtjs", "Expressjs", "Adonisjs","NestJS"],
       Php:["Laravel"],
     },
     Fullstack:{
-      Frontend:["Nuxtjs", "HTML"],
-      Backend:["AdonisJs", "Express", "Laravel", "Purephp"],
+      Frontend:["Nuxtjs","NextJS", "HTML"],
+      Backend:["AdonisJS","NestJS", "Express", "Laravel", "Purephp"],
       Database:["Mysql", "MongoDB", "Firebase"]
     },
     Contact: {
-      Discord: "ʙᴏssɴᴢᴋᴜʙ#9999",
+      Discord: "Boss!z#9999",
       Line: "BossNzKub1",
     }
 };
