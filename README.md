@@ -1,5 +1,5 @@
 # <b>👋Hi! , I'm BossNz.</b>
-
+ask me about docker, kubernetes, backend, frontend, typescript Yup
 <br>
 <a href="https://github.com/BossNz">
   <img src="https://count.getloli.com/get/@bossnz?theme=rule34" />
